@@ -1,1 +1,1 @@
-making the fist commit
+sudo chef generate cookbook john
